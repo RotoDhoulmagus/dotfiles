@@ -1,5 +1,6 @@
 EDITOR=vim
 BROWSER=firefox
+PAGER=most
 
 # Qt5 theme
 QT_QPA_PLATFORMTHEME=qt5ct
