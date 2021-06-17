@@ -1,6 +1,7 @@
 EDITOR=vim
 BROWSER=firefox
 PAGER=most
+XDG_CURRENT_DESKTOP=sway
 
 # Qt5 theme
 QT_QPA_PLATFORMTHEME=qt5ct
