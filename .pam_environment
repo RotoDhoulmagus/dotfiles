@@ -1,6 +1,7 @@
 EDITOR=vim
 BROWSER=firefox
-PAGER=most
+# most works not well for bat and paru
+#PAGER=most
 XDG_CURRENT_DESKTOP=sway
 
 # Qt5 theme
